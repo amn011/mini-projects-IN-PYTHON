@@ -10,7 +10,7 @@ def mul(n1,n2):
 def div(n1,n2):
   return n1/n2
 
-print('Welcome to my calculator....here you will find simple basic operations on numbers')
+print('Welcome to My Calculator....here you will find simple basic operations on numbers')
 print('Lets begin......')
 print('\nChoose the operation you wish to perform: ')
 print('1. Addition')
